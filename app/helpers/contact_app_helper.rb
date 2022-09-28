@@ -1,0 +1,2 @@
+module ContactAppHelper
+end
